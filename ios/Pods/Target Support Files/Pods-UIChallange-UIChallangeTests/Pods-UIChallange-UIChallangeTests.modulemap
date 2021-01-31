@@ -1,0 +1,6 @@
+module Pods_UIChallange_UIChallangeTests {
+  umbrella header "Pods-UIChallange-UIChallangeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
